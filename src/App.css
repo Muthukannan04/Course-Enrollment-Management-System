@@ -1,3 +1,20 @@
+.navbar{
+  background-color: rgb(0, 100, 30);
+  align-items:center;
+  display: flex;
+  height: 70px;
+  
+}
+.navbar a{
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+
+}
+.navbar a.active{
+  background-color: aqua;
+  color: black;
+}
 .App {
   text-align: center;
 }

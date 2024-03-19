@@ -1,0 +1,92 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "Name": "mk",
+      "Password": "Mk"
+    },
+    {
+      "id": "c14c",
+      "username": "1",
+      "email": "1",
+      "password": "1"
+    },
+    {
+      "id": "ebbc",
+      "username": "a",
+      "email": "a",
+      "password": "a"
+    },
+    {
+      "id": "5bf4",
+      "username": "admin",
+      "email": "1",
+      "password": "1"
+    }
+  ],
+  "Course-db": [
+    {
+      "id": "101",
+      "title": "Advanced Data Structures and Algorithms",
+      "description": "Explore advanced data structures and algorithms used in computer science for efficient problem-solving.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "102",
+      "title": "Full-Stack Web Development",
+      "description": "Learn full-stack web development with front-end and back-end technologies, databases, and frameworks.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "103",
+      "title": "Machine Learning Foundations",
+      "description": "Get started with machine learning basics, algorithms, model training, and predictive analytics.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "105",
+      "title": "Network Security and Ethical Hacking",
+      "description": "Understand network security principles, ethical hacking techniques, and cybersecurity best practices.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "106",
+      "title": "Cloud Native Architecture",
+      "description": "Design and build scalable cloud-native applications with microservices, containers, and orchestration.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "107",
+      "title": "Digital Business Strategy",
+      "description": "Develop digital business strategies for growth, innovation, customer engagement, and market expansion.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "108",
+      "title": "Game Design and Development",
+      "description": "Learn game design concepts, mechanics, storytelling, level design, and game development workflows.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "109",
+      "title": "DevOps Practices and Automation",
+      "description": "Implement DevOps practices, continuous integration/continuous delivery (CI/CD), and infrastructure automation.",
+      "duration": "4 Hours",
+      "price": "20"
+    },
+    {
+      "id": "110",
+      "title": "Data Visualization and Storytelling",
+      "description": "Master data visualization tools and techniques to communicate insights effectively through storytelling.",
+      "duration": "4 Hours",
+      "price": "20"
+    }
+  ]
+}
