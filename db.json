@@ -22,6 +22,12 @@
       "username": "admin",
       "email": "1",
       "password": "1"
+    },
+    {
+      "id": "d9a4",
+      "username": "amutha",
+      "email": "amutha@psr.edu.in",
+      "password": "1"
     }
   ],
   "Course-db": [
